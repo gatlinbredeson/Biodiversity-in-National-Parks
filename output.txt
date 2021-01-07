@@ -1,0 +1,58 @@
+Species Proportions (%) for All Data
+V Plant      76.751374
+Bird          8.945742
+NV Plant      5.717720
+Mammal        3.674451
+Fish          2.180632
+Amphibian     1.373626
+Reptile       1.356456
+Name: category, dtype: float64
+
+Species Proportions (%) for status: Least Concern
+V Plant      78.523252
+Bird          7.845225
+NV Plant      5.821796
+Mammal        3.123891
+Fish          2.076677
+Reptile       1.313454
+Amphibian     1.295705
+Name: category, dtype: float64
+
+Species Proportions (%) for status: Species of Concern
+Bird         44.720497
+V Plant      26.708075
+Mammal       17.391304
+NV Plant      3.105590
+Reptile       3.105590
+Amphibian     2.484472
+Fish          2.484472
+Name: category, dtype: float64
+
+Species Proportions (%) for status: Endangered
+Mammal       47.058824
+Bird         23.529412
+Fish         17.647059
+V Plant       5.882353
+Amphibian     5.882353
+Name: category, dtype: float64
+
+Species Proportions (%) for status: Threatened
+Fish         33.333333
+V Plant      22.222222
+Amphibian    22.222222
+Mammal       22.222222
+Name: category, dtype: float64
+
+Species Proportions (%) for status: In Recovery
+Bird    100.0
+Name: category, dtype: float64
+
+Proportion of Each Species NOT Having "Least Concern" Status:
+Amphibian: 8.75 %
+Bird: 15.16 %
+Fish: 7.87 %
+Mammal: 17.76 %
+NV Plant: 1.5 %
+Reptile: 6.33 %
+V Plant: 1.03 %
+
